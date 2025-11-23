@@ -37,16 +37,19 @@ Here are several screenshots showcasing the application's interface and features
 
 The primary interface showing the list, progress bar, and control buttons.
 
-\<img width="849" height="567" alt="Main window" src="[https://github.com/user-attachments/assets/ec0b97f4-f187-46e6-9483-c16c3082dd83](https://github.com/user-attachments/assets/ec0b97f4-f187-46e6-9483-c16c3082dd83)" /\>
+<img width="849" height="567" alt="لقطة شاشة 2025-11-23 090409" src="https://github.com/user-attachments/assets/183c3af7-6fa8-4f0b-b802-d5b763e9bb34" />
+
 
 ### 2\. Task Addition and Progress
 
 Demonstration of adding tasks and how the progress bar updates when tasks are checked.
+<img width="852" height="562" alt="لقطة شاشة 2025-11-23 090443" src="https://github.com/user-attachments/assets/6bde3ce2-dbae-47b6-b930-e36b28545b5b" />
+<img width="857" height="567" alt="لقطة شاشة 2025-11-23 090504" src="https://github.com/user-attachments/assets/11e68351-28fb-43c2-9720-a8d5c2568c76" />
 
-\<img width="857" height="567" alt="Checked tasks + Progress Bar" src="[https://github.com/user-attachments/assets/ec680aee-3653-42e7-b810-5623724b212c](https://github.com/user-attachments/assets/ec680aee-3653-42e7-b810-5623724b212c)" /\>
 
 ### 3\. Undo / Redo in Action
 
 Showing the visual state change when using the Undo or Redo function.
+<img width="856" height="564" alt="لقطة شاشة 2025-11-23 090528" src="https://github.com/user-attachments/assets/fa88e61b-67c8-40d4-86be-5e48366c337e" />
 
-\<img width="856" height="564" alt="Undo / Redo in action" src="[https://github.com/user-attachments/assets/2855344d-4561-4b86-b2c0-3412b1698c10](https://github.com/user-attachments/assets/2855344d-4561-4b86-b2c0-3412b1698c10)" /\>
+
