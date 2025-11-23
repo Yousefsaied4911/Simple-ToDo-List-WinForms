@@ -1,4 +1,4 @@
-##<img width="454" height="294" alt="image" src="https://github.com/user-attachments/assets/40ee3784-b51a-4b42-b4e8-d44ce505dd40" /> 📝 Simple To-Do List App (C# WinForms)
+##📝 Simple To-Do List App (C# WinForms)
 
 A simple and clean To-Do List application built using **C# WinForms**.  
 This was my **first full project**, created to practice Windows Forms, event handling, data structures, and UI logic.
